@@ -49,10 +49,12 @@
 
 ### 공부 또는 사이드프로젝트에서 경험
 - React
+- Svelte
 - Firebase: Auth, Firestore
 - 관계형 데이터베이스
 - Deno
 - Typescript
+- NestJS
 - Flutter / Dart
 - d3.js
 - p5.js
